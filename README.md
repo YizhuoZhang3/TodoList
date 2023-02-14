@@ -6,6 +6,7 @@
 
 * `npm install`
 * `npm run start-server`
+* `npm run build`
 
 ### Windows
 
